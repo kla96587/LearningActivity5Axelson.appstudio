@@ -22,8 +22,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "WhileLoop",
-            "WhileLoop.json"
+            "While",
+            "While.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "For",
+            "For.json"
           ]
         }
       ],
@@ -46,7 +54,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "While",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
